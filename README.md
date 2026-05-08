@@ -25,15 +25,6 @@ Frontend    React · Next.js · Three.js · Tailwind · Framer Motion
 Infra       Docker · Google Cloud Run · Vercel · PostgreSQL
 ```
 
----
-
-### 📌 Currently
-
-- 🔬 Researching quantitative regime detection + AI explanation layers
-- 🛠 Deploying AI systems under Nova Digital
-- 📖 Open to Summer 2027 internship opportunities
-
----
 
 *Always building. Reach me at grewalmanroop9@gmail.com*
 
