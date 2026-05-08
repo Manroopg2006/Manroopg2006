@@ -1,6 +1,6 @@
 ## Hey, I'm Manroop 👋
 
-CS student based in Vancouver, BC — building across AI systems, quant ML, and game dev.
+CS student based in BC — building across AI systems, quant ML, and game dev.
 
 I'm interested in the intersection of machine learning and real-world systems: from multi-agent AI protocols to quantitative regime detection in financial markets.
 
