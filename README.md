@@ -8,7 +8,7 @@ I'm interested in the intersection of machine learning and real-world systems: f
 
 ### 🔨 What I'm building
 
-- **Regime Detection** — Time-series ML system for detecting correlation breakdowns in financial markets, with an AI explanation layer
+- **Regime Detection** — Time-series ML system for detecting correlation breakdowns in financial markets
 - **A2A Healthcare Navigator** — Multi-agent AI system using Google ADK + A2A Protocol v1 for healthcare query routing
 - **ARCADE** — UFC fight outcome prediction using ensemble ML models
 
