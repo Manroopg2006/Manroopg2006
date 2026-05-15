@@ -10,7 +10,6 @@ CS student building ML systems, real-time data platforms, and applied AI tools.
 
 - 🐋 **OrcaPath AI** — ML system for detecting and analyzing killer whale vocalizations from hydrophone data with clustering and spatiotemporal mapping  
 - 🏥 **A2A Healthcare Navigator** — Multi-agent healthcare assistant using Google ADK + RAG-based retrieval for medical query routing  
-- 🚑 **TRIAGE ASSIST** — Full-stack AI triage system for patient intake, symptom extraction, and CTAS-based prioritization  
 - 🧠 **ARCADE** — ML system predicting UFC fight outcomes using ensemble models and Monte Carlo simulation  
 - 📊 **Regime Detection System** — Time-series ML model for detecting structural shifts in financial markets  
 
