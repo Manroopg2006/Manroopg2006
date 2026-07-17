@@ -4,14 +4,7 @@
 CS student building ML systems, real-time data platforms, and applied AI tools.
 </p>
 
----
 
-## 🚀 What I'm building
-
-- 🐋 **OrcaPath** — ML system for detecting and analyzing killer whale vocalizations from hydrophone data with clustering and spatiotemporal mapping  
-- 🏥 **A2A Healthcare Navigator** — Multi-agent healthcare assistant using Google ADK + RAG-based retrieval for medical query routing  
-- 🧠 **ARCADE** — ML system predicting UFC fight outcomes using ensemble models and Monte Carlo simulation  
-- 📊 **Regime Detection System** — Time-series ML model for detecting structural shifts in financial markets  
 
 ---
 
